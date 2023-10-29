@@ -1,6 +1,6 @@
 <?php
 
-require_once("../models/koneksi.php");
+require_once("./koneksi.php");
 
 // untuk melakukan getalldata yang akan di perlihatkan
 function getAllData()
